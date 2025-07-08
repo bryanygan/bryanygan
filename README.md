@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Bryan Gan
+
+🎓 **Student @ Drexel University**  
+Currently pursuing a degree in Software Engineering, with a passion for building meaningful tech solutions and automating the ordinary.
+
+## 🛠️ Skills
+- **Languages:** Python, Java, HTML
+- **Interests:** Automation, software design, building cool side projects
+
+## 🚀 Featured Projects
+- [crazy8s](https://github.com/bryanygan/crazy8s): A fun and interactive card game project
+- [zreatsbot](https://github.com/bryanygan/zreatsbot): A bot focused on creative automation
+
+## 🏀 Outside of Code
+When I’m not coding, you’ll find me on the basketball court, exploring the latest in video games, or tinkering with new ways to automate everyday tasks.
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/bryanygan/)
+- [Personal Website](https://bryangan.com/)
 
 <!--
-**bryanygan/bryanygan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**bryanygan/bryanygan** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
