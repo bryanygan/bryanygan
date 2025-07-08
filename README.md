@@ -18,6 +18,9 @@ When I’m not coding, you’ll find me on the basketball court, exploring the l
 - [LinkedIn](https://www.linkedin.com/in/bryanygan/)
 - [Personal Website](https://bryangan.com/)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanygan&show_icons=true&theme=prussian" alt="Bryan's GitHub stats" />
+</p>
 <!--
 **bryanygan/bryanygan** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
