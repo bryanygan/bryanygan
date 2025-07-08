@@ -19,8 +19,18 @@ When I’m not coding, you’ll find me on the basketball court, exploring the l
 - [Personal Website](https://bryangan.com/)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanygan&show=prs_merged&hide=stars,issues,contribs&show_icons=true&theme=prussian" alt="Bryan's GitHub stats" />
+  <a href="https://github.com/bryanygan">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=bryanygan&show=prs_merged&hide=stars,issues,contribs&show_icons=true&theme=prussian&hide_rank=true"
+      width="300" height="200" />
+  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanygan&layout=compact"
+    width="300" height="200" />
 </p>
+
+
+
 <!--
 **bryanygan/bryanygan** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
