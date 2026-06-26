@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Bryan Gan's GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Commits  (last year) : 820, Total PRs: 113, Total PRs Merged: 82</desc>
+        <desc id="descId">Total Commits  (last year) : 875, Total PRs: 113, Total PRs Merged: 84</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 160.54684150977434;
+        stroke-dashoffset: 158.5943705128165;
       }
     }
   
@@ -151,7 +151,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >820</text>
+      >875</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >82</text>
+      >84</text>
     </g>
   </g>
     </svg>
