@@ -22,11 +22,11 @@ When I’m not coding, you’ll find me on the basketball court, exploring the l
 <p align="center">
   <a href="https://github.com/bryanygan">
     <img
-      src="./profile/stats.svg"
+      src="https://github-stats-extended.vercel.app/api?username=bryanygan&show=prs_merged&hide=stars,issues,contribs&show_icons=true&theme=prussian&hide_rank=true"
       width="300" height="200" />
   </a>
   <img
-    src="./profile/top-langs.svg"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=bryanygan&layout=compact&langs_count=6&theme=prussian"
     width="300" height="200" />
 </p>
 
