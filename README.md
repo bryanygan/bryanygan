@@ -9,8 +9,8 @@ Currently pursuing a degree in Software Engineering, with a passion for building
 
 ## 🚀 Featured Projects
 - [GearMatch](https://github.com/bryanygan/gearmatch): A quiz-based web application recommends peripherals
+- [Event Tracker](https://github.com/bryanygan/event-tracker): A local content assistant for my Philly events TikTok page.
 - [Crazy 8s](https://github.com/bryanygan/crazy8s): A fun and interactive card game project
-- [zreatsbot](https://github.com/bryanygan/zreatsbot): A bot focused on Discord automation
 
 ## 🏀 Outside of Code
 When I’m not coding, you’ll find me on the basketball court, exploring the latest in video games, or tinkering with new ways to automate everyday tasks. I also love collecting vinyl and buying cool clothes!
